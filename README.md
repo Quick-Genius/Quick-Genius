@@ -30,8 +30,7 @@
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-s-profile/) <!-- Replace with your real link -->
-- 🌐 [Portfolio](https://your-portfolio-url.com) <!-- Replace if available -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-singh-1b3870253/) <!-- Replace with your real link -->
 - 📧 harshsingh@email.com <!-- Replace with your actual email -->
 
 ---
