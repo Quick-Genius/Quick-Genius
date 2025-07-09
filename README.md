@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Harsh Singh
 
 🎓 Second-year Computer Science undergrad at **JECRC University**  
-🚀 Passionate about **Web Development**, **Robotics**, and learning new technologies  
+🚀 Passionate about building impactful tech solutions through software and robotics, and learning new technologies
 🛠️ Currently building full-stack web apps using **React**, **Express**, **MongoDB**, and **Node.js**
 
 ---
