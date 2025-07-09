@@ -1,38 +1,48 @@
+Your profile looks fantastic, Harsh — it's clean, professional, and communicates your strengths and ambitions clearly. Here's a slightly refined version with just a few tweaks for formatting, clarity, and consistency, while keeping your voice intact:
+
+---
+
 # 👋 Hi there, I'm Harsh Singh
 
-🎓 Second-year Computer Science undergrad at **JECRC University**  
-🚀 Passionate about building impactful tech solutions through software and robotics, and learning new technologies
+🎓 Second-year Computer Science undergrad at **JECRC University**
+🚀 Passionate about **building impactful tech solutions through software and robotics**, and constantly learning new technologies
 🛠️ Currently building full-stack web apps using **React**, **Express**, **MongoDB**, and **Node.js**
 
 ---
 
 ## 💻 Tech Stack
-- **Languages:** JavaScript, C++, Java  
-- **Frontend:** React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Tools & Platforms:** Git, GitHub, GCD, Postman, Bruno, Vercel, Render, Docker
+
+* **Languages:** JavaScript, C++, Java
+* **Frontend:** React.js, HTML, CSS
+* **Backend:** Node.js, Express.js
+* **Databases:** MongoDB, MySQL
+* **Tools & Platforms:** Git, GitHub, Google Cloud (GCD), Postman, Bruno, Vercel, Render, Docker
 
 ---
 
 ## 🌱 Currently Learning
-- JEST testing framework  
-- Advanced SQL concepts  
-- GitHub Project Management & Open Source Collaboration
+
+* 🧪 JEST testing framework
+* 🗃️ Intermediate SQL concepts
+* 🛠️ GitHub Project Management & Open Source Collaboration
 
 ---
 
 ## 📌 Featured Projects
-- 🔧 **Recarnation** – Full-stack used car marketplace with AI autocomplete & Google Authentication  
-- 📝 **Lamest Excuse** – A microblogging platform for sharing fun excuses  
-- 🌤️ **Weather App** – A web app that fetches real-time weather information
+
+* 🔧 **Recarnation** – A full-stack used car marketplace with AI autocomplete and Google Authentication
+* 📝 **Lamest Excuse** – A microblogging platform for sharing humorous excuses
+* 🌤️ **Weather App** – A simple web app that fetches real-time weather information via open APIs
 
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-singh-1b3870253/) <!-- Replace with your real link -->
-- 📧 devnode.mail@gmail.com <!-- Replace with your actual email -->
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/harsh-singh-1b3870253/)
+* 📧 [devnode.mail@gmail.com](mailto:devnode.mail@gmail.com)
 
 ---
 
-> _"Always learning. Always building."_ 💡
+> *"Always learning. Always building."* 💡
+
+---
