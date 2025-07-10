@@ -1,7 +1,3 @@
-Your profile looks fantastic, Harsh — it's clean, professional, and communicates your strengths and ambitions clearly. Here's a slightly refined version with just a few tweaks for formatting, clarity, and consistency, while keeping your voice intact:
-
----
-
 # 👋 Hi there, I'm Harsh Singh
 
 🎓 Second-year Computer Science undergrad at **JECRC University**
