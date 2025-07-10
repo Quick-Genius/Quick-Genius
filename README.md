@@ -39,6 +39,9 @@
 
 ---
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Quick-Genius.Quick-Genius&left_color=blue&right_color=green)
+
+
 > *"Always learning. Always building."* 💡
 
 ---
