@@ -35,7 +35,7 @@
 ## 📫 Let's Connect!
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/harsh-singh-1b3870253/)
-* 📧 [devnode.mail@gmail.com](mailto:devnode.mail@gmail.com)
+* 📧 [harsh.dev.mail07@gmail.com](mailto:harsh.dev.mail07@gmail.com)
 
 ---
 
