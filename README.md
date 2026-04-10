@@ -3,7 +3,7 @@
 
 <div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Bhaumik+Maan;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Harsh+Singh;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div> 
 <p align="center"><em>
 Software Engineer. Computer Science Undergrad<br>
