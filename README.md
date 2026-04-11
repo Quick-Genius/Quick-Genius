@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Harsh+Singh;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div> 
 <p align="center"><em>
-Software Engineer. Computer Science Undergrad<br>
+Backend Developer & A Computer Science Undergrad<br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> I enjoy learning new things. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> <br> 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Always on the lookout for interesting ideas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
 </em></p>
@@ -28,8 +28,8 @@ Software Engineer. Computer Science Undergrad<br>
 <a href="https://linkedin.com/in/harsh-singh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp;
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@" height="30" width="40" /></a>&nbsp;&nbsp; -->
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maango16" height="30" width="40" /></a> &nbsp;&nbsp; -->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp; -->
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;-->
+<a href="https://codeforces.com/profile/singhharshgood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp; 
 <a href="Quick_Genius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;
 </p><br><br>
 
@@ -53,5 +53,5 @@ Software Engineer. Computer Science Undergrad<br>
 
 ---
 
-<p align="center"><sub>// jaipur, rajasthan · open to backend & full-stack roles · singhharshgood@gmail.com</sub></p>
+<!-- <p align="center"><sub>// jaipur, rajasthan · open to backend & full-stack roles · singhharshgood@gmail.com</sub></p> -->
 
