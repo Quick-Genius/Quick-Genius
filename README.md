@@ -3,45 +3,33 @@
 
 <div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Harsh+Singh;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Harsh+Singh;I'm+a+Backend+Developer;)](https://git.io/typing-svg)
 </div> 
 <p align="center"><em>
-Backend Developer & A Computer Science Undergrad<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> I enjoy learning new things. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> <br> 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Always on the lookout for interesting ideas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
+Backend engineer who enjoys building **systems that hold up when things get ugly** ⚙️  
+Currently obsessed with **scalable architecture, distributed systems, and making backends boring** (in the best way).<br>
+
 </em></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshsingh&color=blue" alt="HarshSingh" /> </p>
 
-<h2 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /> Languages & Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /></h2>
+<h2 align="center"> Languages & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,git,aws,gcc,docker,kubernetics" />
+    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,express,git,gcp,docker,kubernetics" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,rabbitmq,reddis,bash" />
+    <img src="https://skillicons.dev/icons?i=aws,mysql,rabbitmq,redis,bash" />
 </p><br>
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
 <p align="center">
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp; -->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp; -->
 <a href="https://linkedin.com/in/harsh-singh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp;
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@" height="30" width="40" /></a>&nbsp;&nbsp; -->
-<!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maango16" height="30" width="40" /></a> &nbsp;&nbsp; -->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;-->
 <a href="https://codeforces.com/profile/singhharshgood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp; 
 <a href="Quick_Genius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;
 </p><br><br>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quick-Genius&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quick-Genius&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
-
----
+## 
 
 ## 🐹 The Go Gopher Is Eating My Contributions
 
