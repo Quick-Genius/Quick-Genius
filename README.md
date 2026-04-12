@@ -16,15 +16,15 @@ Backend Developer & A Computer Science Undergrad<br>
 <h2 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /> Languages & Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /></h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,html,css,js,bootstrap,nodejs,django,flask,git,firebase,react" />
+    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,git,aws,gcc,docker,kubernetics" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,angular,bash,figma,vscode,ts" />
+    <img src="https://skillicons.dev/icons?i=mysql,rabbitmq,reddis,bash" />
 </p><br>
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
 <p align="center">
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp; -->
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp;
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp; -->
 <a href="https://linkedin.com/in/harsh-singh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp;
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@" height="30" width="40" /></a>&nbsp;&nbsp; -->
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maango16" height="30" width="40" /></a> &nbsp;&nbsp; -->
