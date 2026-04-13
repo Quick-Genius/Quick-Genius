@@ -11,9 +11,9 @@ I am an enthusiastic learner, passionate about Distributed Systems, Artificial I
 
 <h2> Tech & Tools</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,express,git,docker,kubernetics"/>
+    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,express,git,docker,kubernetes"/>
   <br>
-    <img src="https://skillicons.dev/icons?i=gcp,aws,rabbitmq,redis,mysql,postgreSql,bash" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,rabbitmq,redis,mysql,postgresql,bash" />
 </p><br>
 
 Also worked with:
