@@ -13,7 +13,7 @@ I am an enthusiastic learner, passionate about Distributed Systems, Artificial I
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,ts,nodejs,express,git,docker,kubernetics"/>
   <br>
-    <img src="https://skillicons.dev/icons?i=gcp,aws,rabbitmq,redis,mysql,bash" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,rabbitmq,redis,mysql,postgreSql,bash" />
 </p><br>
 
 Also worked with:
@@ -31,13 +31,15 @@ REST Api, Graph QL, Proxies, Load Balancers, RAG, MCP server
 ## GitHub Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quick-Genius&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Quick-Genius&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quick-Genius&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 </p>
 
 ---
 
 ## My Contributions
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quick-Genius/snk/output/gopher.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quick-Genius/snk/output/gopher.svg"/>
   <img alt="github contribution grid gopher animation" src="https://raw.githubusercontent.com/Quick-Genius/snk/output/gopher.svg"/>
