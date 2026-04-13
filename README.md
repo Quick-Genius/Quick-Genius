@@ -30,8 +30,9 @@ REST Api, Graph QL, Proxies, Load Balancers, RAG, MCP server
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Quick-Genius&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quick-Genius&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quick-Genius&theme=github_dark" />
+</p>
 
 ---
 
