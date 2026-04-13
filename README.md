@@ -20,7 +20,7 @@ Also worked with:
 REST Api, Graph QL, Proxies, Load Balancers, RAG, MCP server
 
 <h2> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/harsh-singh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HarshSingh" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/singhharshgood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp; 
 <a href="Quick_Genius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;
@@ -31,9 +31,7 @@ REST Api, Graph QL, Proxies, Load Balancers, RAG, MCP server
 ## GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Quick-Genius&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quick-Genius&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Quick-Genius&theme=github-dark&hide_border=true&background=0d1117" />
 </p>
 
 ---
