@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/Quick-Genius/Quick-Genius/blob/main/banner.png" /> </p>
 <h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-<div>  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+<div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Harsh+Singh;I+build+backends+that+scale;Distributed+Systems+%7C+DevOps+%7C+AI)](https://git.io/typing-svg)
 </div>
@@ -30,7 +30,7 @@ REST Api, Graph QL, Proxies, Load Balancers, RAG, MCP server
 
 ## GitHub Stats
 
-<p>
+<p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=Quick-Genius&theme=github-dark&hide_border=true&background=0d1117" />
 </p>
 
