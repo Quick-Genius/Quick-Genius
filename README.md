@@ -26,10 +26,10 @@ Currently obsessed with **scalable architecture, distributed systems, and making
 
 ---
 
-## 🐹 Go Gopher Eating My Contributions
+## My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quick-Genius/Quick-Genius/output/gopher-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quick-Genius/Quick-Genius/output/gopher.svg"/>
-  <img alt="github contribution grid gopher animation" src="https://raw.githubusercontent.com/Quick-Genius/Quick-Genius/output/gopher-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quick-Genius/snk/output/gopher-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quick-Genius/snk/output/gopher.svg"/>
+  <img alt="github contribution grid gopher animation" src="https://raw.githubusercontent.com/Quick-Genius/snk/output/gopher.svg"/>
 </picture>
